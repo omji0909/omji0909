@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**omji0909/omji0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Omji <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omji0909" alt="raghav-byte" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of college 👨‍🎓
+
+- 🔭 I’m currently working on nothing  
+- 🌱 I’m currently learning about Data Structures.
+- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
+- 🤔 I’m looking for help in learning about DSA and JavaScript.
+- 💬 Ask me about anything and everything 
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:omjimaurayo09@gmail.com)
+- ⚡ Fun fact: Jack of all trades , Master of some ! 
+
+
+### Some Stats About Omji (Public Only)
+<p align="center" >
+<img alt=" github stats" src="https://github-readme-stats.vercel.app/api?username=omji0909&show_icons=true&theme=merko"  > </p>
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/omji-kushwaha/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Omji_Kushwaha" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/omjikush09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@omjikush09" height="25" width="25" /></a>&nbsp;&nbsp;
+<!-- <a href="https://dev.to/omji0909" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@omji" height="25" width="25" /></a> &nbsp;&nbsp; -->
+<a href="#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="#" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
+
+
+⭐️ From [Omji](https://github.com/omji0909)
+
