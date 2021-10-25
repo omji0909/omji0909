@@ -1,7 +1,7 @@
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Omji <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omji0909" alt="raghav-byte" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjikush09" alt="raghav-byte" /> </p>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of college 👨‍🎓
 
