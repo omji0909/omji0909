@@ -10,13 +10,13 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of colle
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about DSA and JavaScript.
 - 💬 Ask me about anything and everything 
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:omjimaurayo09@gmail.com)
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omjimaurya09@gamil.com)](mailto:omjimaurayo09@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of some ! 
 
 
 ### Some Stats About Omji (Public Only)
 <p align="center" >
-<img alt=" github stats" src="https://github-readme-stats.vercel.app/api?username=omji0909&show_icons=true&theme=merko"  > </p>
+<img alt=" github stats" src="https://github-readme-stats.vercel.app/api?username=omjikush09&show_icons=true&theme=merko"  > </p>
 
 
 <p align="center">
@@ -27,5 +27,5 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of colle
 </p>
 
 
-⭐️ From [Omji](https://github.com/omji0909)
+⭐️ From [Omji](https://github.com/omjikush09)
 
