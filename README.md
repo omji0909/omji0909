@@ -18,10 +18,10 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of colle
 <p align="center" >
  <img atl="most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjikush09">
  <span> </span>
- <img atl="most language used" src="https://github-readme-streak-stats.herokuapp.com/?user=omjikush09">
- </p>
- <p align="center" >
  
+ </p>
+ <p align="end" >
+ <img atl="most language used" src="https://github-readme-streak-stats.herokuapp.com/?user=omjikush09">
  </p>
  
 
