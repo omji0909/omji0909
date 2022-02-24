@@ -20,7 +20,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of colle
  <img align="right" atl="most language used" src="https://github-readme-streak-stats.herokuapp.com/?user=omjikush09">
 <P>
  
-
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/omji-kushwaha/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Omji_Kushwaha" height="25" width="25" /></a>&nbsp;&nbsp;
