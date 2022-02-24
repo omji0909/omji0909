@@ -16,6 +16,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of colle
 
 ### Some Stats About Omji (Public Only)
 <p align="center" >
+ <img atl="most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username={omjikush09}">
 <img alt=" github stats" src="https://github-readme-stats.vercel.app/api?username=omjikush09&show_icons=true&theme=merko"  > </p>
 
 
