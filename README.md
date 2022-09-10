@@ -3,15 +3,13 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Omji <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjikush09" alt="raghav-byte" /> </p>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in first year of college 👨‍🎓
-
-- 🔭 I’m currently working on nothing  
-- 🌱 I’m currently learning about Data Structures.
-- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
+I'm a Computer Science Enthusiast  👨‍💻.
+ 
+- 👯 I’m looking to collaborate on Cpp projects and  Web Dev stuff
 - 🤔 I’m looking for help in learning about DSA and JavaScript.
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omjimaurya09@gamil.com)](mailto:omjimaurayo09@gmail.com)
-- ⚡ Fun fact: Jack of all trades , Master of some ! 
+ 
 
 
 ### Some Stats About Omji (Public Only)
